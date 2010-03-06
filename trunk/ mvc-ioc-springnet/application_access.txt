@@ -1,5 +1,0 @@
-u: administrator
-p: administrator
---------------------
-u: kbochevski
-p: kbochevski
